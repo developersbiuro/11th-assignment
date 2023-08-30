@@ -1,0 +1,9 @@
+.ul{
+  color: white;
+text-decoration-color: white;
+}
+.hd{
+  color: white;
+  background-image: url(./src/assets/images/blue.png);
+  color-scheme:unset;
+}
