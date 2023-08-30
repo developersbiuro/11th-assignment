@@ -1,9 +1,30 @@
 .ul{
   color: white;
 text-decoration-color: white;
+forced-color-adjust: white;
 }
 .hd{
   color: white;
   background-image: url(./src/assets/images/blue.png);
   color-scheme:unset;
+  height: 500px;
+}
+.hdf{
+  font-size: 50px;
+  margin-top: 65px;
+}
+.mar{
+  margin-top: 20px;
+}
+.ft{
+  background-color: rgb(242, 249, 255);
+  color: black;
+}
+.logo{
+  color:blue;
+  ;
+}
+.ftmar{
+  margin-top: 30px;
+  padding-top: 40px;
 }
