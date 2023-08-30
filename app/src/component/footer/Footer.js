@@ -26,10 +26,11 @@ export default function Footer() {
                     </div>
                     <div className='col-lg-3'>
                         <h2><b>Our Company</b></h2>
-                        About Us<br /><br />
-                        Services<br /><br />
-                        Team<br /><br />
-                        Blogs<br /><br />
+                        About Company<br /><br />
+                        Our Testimonial<br /><br />
+                        Latest News<br /><br />
+                        Our Mission<br /><br />
+                        Get a Free Qout<br /><br />
                     </div>
                     <div className='col-lg-3'></div>
                 </div>
