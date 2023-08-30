@@ -32,7 +32,14 @@ export default function Footer() {
                         Our Mission<br /><br />
                         Get a Free Qout<br /><br />
                     </div>
-                    <div className='col-lg-3'></div>
+                    <div className='col-lg-3'>
+                    <h2><b>Our services</b></h2>
+                        Web Development<br /><br />
+                        App Development<br /><br />
+                        Graphic Design<br /><br />
+                        Web Solution<br /><br />
+                        App Design<br /><br />
+                    </div>
                 </div>
 
             </div>
