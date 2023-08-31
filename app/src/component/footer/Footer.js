@@ -18,10 +18,11 @@ export default function Footer() {
 
                         <Link className="nav-link ul active  " aria-current="page" href="/">Home</Link>
                         <br />
-                        About Us<br /><br />
-                        Services<br /><br />
-                        Team<br /><br />
-                        Blogs<br /><br />
+                        <Link href="about/" className="ft" >About Us</Link><br /><br />
+                        <Link href="services/" className="ft" >Services</Link><br /><br />
+                        <Link href="/" className="ft" >Team</Link><br /><br />
+                        <Link href="blogs/" className="ft" >Blogs</Link><br /><br />
+                        
 
                     </div>
                     <div className='col-lg-3'>

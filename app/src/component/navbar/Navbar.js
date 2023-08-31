@@ -5,31 +5,31 @@ import sr from "../../assets/images/search.png"
 
 export default function Navbar(props) {
     return (
-        <div className="ul">
-            <nav className="navbar ul">
+        <div className="ul colr">
+            <nav className="navbar colr">
                 <div className="container-fluid ul">
-                    <Link className="navbar-brand" href="/"><b>Developers-Biuro</b></Link>
+                    <Link className="navbar-brand" href="/"><b className="colr">Developers-Biuro</b></Link>
                     <ul className="nav justify-content-end  " style={{color:"white"}}>
                         <li className="nav-item  ">
-                            <Link className="nav-link ul active  " aria-current="page" href="/">Home</Link>
+                            <Link className="nav-link ul active" aria-current="page" href="/">Home</Link>
                         </li>
                         <li className="nav-item  ">
-                            <Link className="nav-link active  " aria-current="page" href="about/">About</Link>
+                            <Link className="nav-link ul active  " aria-current="page" href="about/">About</Link>
                         </li>
                         <li className="nav-item  ">
-                            <Link className="nav-link active  " aria-current="page" href="services/">Services</Link>
+                            <Link className="nav-link ul active  " aria-current="page" href="services/">Services</Link>
                         </li>
                         <li className="nav-item  ">
-                            <Link className="nav-link active  " aria-current="page" href="pages/">Pages</Link>
+                            <Link className="nav-link ul active  " aria-current="page" href="pages/">Pages</Link>
                         </li>
                         <li className="nav-item  ">
-                            <Link className="nav-link active  " aria-current="page" href="portfolio/">Portfolio</Link>
+                            <Link className="nav-link ul active  " aria-current="page" href="portfolio/">Portfolio</Link>
                         </li>
                         <li className="nav-item  ">
-                            <Link className="nav-link active  " aria-current="page" href="blogs/">Blogs</Link>
+                            <Link className="nav-link ul active  " aria-current="page" href="blogs/">Blogs</Link>
                         </li>
                         <li className="nav-item  ">
-                            <Link className="nav-link active  " aria-current="page" href="contact/">Contact us</Link>
+                            <Link className="nav-link ul active  " aria-current="page" href="contact/">Contact us</Link>
                         </li>
 
                     </ul>

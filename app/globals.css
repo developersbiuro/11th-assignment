@@ -9,6 +9,9 @@ forced-color-adjust: white;
   color-scheme:unset;
   height: 500px;
 }
+.colr{
+  color: white;
+}
 .hdf{
   font-size: 50px;
   margin-top: 65px;
@@ -17,7 +20,7 @@ forced-color-adjust: white;
   margin-top: 20px;
 }
 .ft{
-  background-color: rgb(242, 249, 255);
+  background-color: rgb(223, 234, 243);
   color: black;
 }
 .logo{
