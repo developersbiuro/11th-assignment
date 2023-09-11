@@ -1,8 +1,9 @@
-
+'use client'
 import Link from "next/link"
 import "../../../globals.css"
 import sr from "../../assets/images/search.png"
 import Image from "next/image"
+
 
 export default function Navbar(props) {
     return (
