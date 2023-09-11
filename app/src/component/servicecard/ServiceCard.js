@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Props } from 'next/script'
+
 
 
 export default function ServiceCard(props) {
@@ -11,7 +11,8 @@ export default function ServiceCard(props) {
                     <h3>{props.title}</h3>
                     <p className="card-text">Lorem ipsum dolor sit amet, consectetur
                         adipiscing elit, sed do eiusmodtempor
-                        incididunt ut labore et dolore</p>
+                        incididunt ut labore et dolore
+                    </p>
                 </div>
             </div>
         </div>
